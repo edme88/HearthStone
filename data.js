@@ -114,6 +114,12 @@ var datos = [
     "firstPlace": true,
     "fourthPlace": true
   },{
+    "heroName": "Drek'Thar",
+    "heroImg": "images/hero_19_Drek_Thar.png",
+    "played": true,
+    "firstPlace": true,
+    "fourthPlace": true
+  },{
     "heroName": "Domadinos Brann",
     "heroImg": "images/hero_18_Domadinos_Brann.png",
     "played": false,
@@ -125,12 +131,6 @@ var datos = [
     "played": true,
     "firstPlace": false,
     "fourthPlace": false
-  },{
-    "heroName": "Edwin VanCleef",
-    "heroImg": "images/hero_20_Edwin_VanCleef.png",
-    "played": true,
-    "firstPlace": true,
-    "fourthPlace": true
   },{
     "heroName": "Edwin VanCleef",
     "heroImg": "images/hero_20_Edwin_VanCleef.png",
@@ -216,7 +216,7 @@ var datos = [
     "firstPlace": false,
     "fourthPlace": false
   },{
-    "heroName": "Inge el Hi,no Férreo",
+    "heroName": "Inge el Himno Férreo",
     "heroImg": "images/hero_94_inge_el_himno_ferreo.png",
     "played": false,
     "firstPlace": false,
