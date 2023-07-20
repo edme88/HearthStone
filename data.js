@@ -44,9 +44,9 @@ var datos = [
   },{
     "heroName": "Baldomero",
     "heroImg": "images/hero_7_Baldomero.png",
-    "played": false,
-    "firstPlace": false,
-    "fourthPlace": false
+    "played": true,
+    "firstPlace": true,
+    "fourthPlace": true
   },{
     "heroName": "Barón del atraco Togafloja",
     "heroImg": "images/hero_8_Baron_del_atraco_Togafloja.png",
