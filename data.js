@@ -380,9 +380,9 @@ var datos = [
   },{
     "heroName": "Ramagrís",
     "heroImg": "images/hero_60_Ramagris.png",
-    "played": false,
-    "firstPlace": false,
-    "fourthPlace": false
+    "played": true,
+    "firstPlace": true,
+    "fourthPlace": true
   },{
     "heroName": "Reina Azshara",
     "heroImg": "images/hero_61_Reina_Azshara.png",
