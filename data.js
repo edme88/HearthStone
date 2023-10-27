@@ -500,9 +500,9 @@ var datos = [
   },{
     "heroName": "Tess Cringrís",
     "heroImg": "images/hero_80_Tess_Cringris.png",
-    "played": false,
-    "firstPlace": false,
-    "fourthPlace": false
+    "played": true,
+    "firstPlace": true,
+    "fourthPlace": true
   },{
     "heroName": "Tiquetus",
     "heroImg": "images/hero_81_Tiquetus.png",
