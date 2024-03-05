@@ -326,9 +326,9 @@ var datos = [
   },{
     "heroName": "Onyxia",
     "heroImg": "images/hero_51_Onyxia.png",
-    "played": false,
-    "firstPlace": false,
-    "fourthPlace": false
+    "played": true,
+    "firstPlace": true,
+    "fourthPlace": true
   },{
     "heroName": "Ozumat",
     "heroImg": "images/hero_52_Ozumat.png",
