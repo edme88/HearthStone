@@ -288,6 +288,12 @@ var datos = [
     "firstPlace": false,
     "fourthPlace": false
   },{
+    "heroName": "Médica Hollidae",
+    "heroImg": "images/hero_45_Medica_Hollidae.png",
+    "played": true,
+    "firstPlace": true,
+    "fourthPlace": true
+  },{
     "heroName": "Molino Tormenta de Maná",
     "heroImg": "images/hero_45_Molino_Tormenta_de_Mana.png",
     "played": false,
