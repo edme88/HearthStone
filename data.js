@@ -162,6 +162,12 @@ var datos = [
     "firstPlace": true,
     "fourthPlace": true
   },{
+    "heroName": "El Incógnito",
+    "heroImg": "images/hero_23_El_Gran_Akazamzarak.png",
+    "played": true,
+    "firstPlace": true,
+    "fourthPlace": true
+  },{
     "heroName": "El Rey Exánime",
     "heroImg": "images/hero_24_El_Rey_Exanime.png",
     "played": true,
