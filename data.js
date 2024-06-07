@@ -314,9 +314,9 @@ var datos = [
   },{
     "heroName": "Molino Tormenta de Maná",
     "heroImg": "images/hero_45_Molino_Tormenta_de_Mana.png",
-    "played": false,
-    "firstPlace": false,
-    "fourthPlace": false
+    "played": true,
+    "firstPlace": true,
+    "fourthPlace": true
   },{
     "heroName": "Mutanus el Devorador",
     "heroImg": "images/hero_46_Mutanus_el_Devorador.png",
@@ -362,9 +362,9 @@ var datos = [
   },{
     "heroName": "Parches el Pirata",
     "heroImg": "images/hero_53_Parches_el_Pirata.png",
-    "played": false,
-    "firstPlace": false,
-    "fourthPlace": false
+    "played": true,
+    "firstPlace": true,
+    "fourthPlace": true
   },{
     "heroName": "Piramido",
     "heroImg": "images/hero_54_Piramido.png",
