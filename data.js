@@ -480,6 +480,12 @@ var datos = [
     "firstPlace": false,
     "fourthPlace": false
   },{
+    "heroName": "Señora Goya",
+    "heroImg": "images/hero_70_Señor_supremo_Colmillosauro.png",
+    "played": false,
+    "firstPlace": false,
+    "fourthPlace": false
+  },{
     "heroName": "Silas Luna Negra",
     "heroImg": "images/hero_71_Silas_Luna_Negra.png",
     "played": false,
