@@ -348,6 +348,12 @@ var datos = [
     "firstPlace": true,
     "fourthPlace": true
   },{
+    "heroName": "Ojos de Serpiente",
+    "heroImg": "images/hero_50_Omu__celadora_del_bosque.png",
+    "played": false,
+    "firstPlace": false,
+    "fourthPlace": false
+  },{
     "heroName": "Omu, celadora del bosque",
     "heroImg": "images/hero_50_Omu__celadora_del_bosque.png",
     "played": true,
