@@ -506,9 +506,9 @@ var datos = [
   },{
     "heroName": "Tamsin Roame",
     "heroImg": "images/hero_77_Tamsin_Roame.png",
-    "played": false,
-    "firstPlace": false,
-    "fourthPlace": false
+    "played": true,
+    "firstPlace": true,
+    "fourthPlace": true
   },{
     "heroName": "Tavish Pico Tormenta",
     "heroImg": "images/hero_78_Tavish_Pico_Tormenta.png",
