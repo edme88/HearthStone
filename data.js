@@ -318,6 +318,12 @@ var datos = [
     "firstPlace": true,
     "fourthPlace": true
   },{
+    "heroName": "Mucus Muquitinoso",
+    "heroImg": "images/hero_45_Molino_Tormenta_de_Mana.png",
+    "played": false,
+    "firstPlace": false,
+    "fourthPlace": false
+  },{
     "heroName": "Mutanus el Devorador",
     "heroImg": "images/hero_46_Mutanus_el_Devorador.png",
     "played": false,
