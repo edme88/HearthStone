@@ -522,6 +522,12 @@ var datos = [
     "firstPlace": false,
     "fourthPlace": false
   },{
+    "heroName": "Tae'thelan",
+    "heroImg": "images/hero_76_Sylvanas_Brisaveloz.png",
+    "played": false,
+    "firstPlace": false,
+    "fourthPlace": false
+  },{
     "heroName": "Tamsin Roame",
     "heroImg": "images/hero_77_Tamsin_Roame.png",
     "played": true,
