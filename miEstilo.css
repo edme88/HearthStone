@@ -1,6 +1,12 @@
+@font-face {
+    font-family: Belwe;
+    src: url(font/odend.ttf);
+}
+
 body{
     text-align: center;
     background: #fd9;
+    font-family: Belwe,Georgia,Times,Times New Roman,serif;
 }
 
 img{
@@ -17,4 +23,21 @@ img{
 
 .card-header{
     background: rgba(255, 255, 255, 0.73) !important;
+}
+
+.card{
+    background: rgba(255,255,255,0.1) !important;
+}
+
+h4{
+    line-height: 1.5;
+    min-height: calc(1.5em * 2);
+}
+
+#app img:hover{
+    transform: perspective(1000px) rotateX(2.27deg) rotateY(5.64deg) scale3d(1.035,1.035,1.035);
+}
+
+img{
+    filter: drop-shadow(0 0 0.75rem #544445);
 }

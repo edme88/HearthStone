@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <script src="data.js"></script>
     <meta charset="UTF-8">
     <title>HearthStone</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/css/bootstrap.min.css"
@@ -9,7 +10,6 @@
           integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
     <script src="https://cdn.jsdelivr.net/npm/vue@2.7.14/dist/vue.js"></script>
     <link rel="icon" type="image/x-icon" href="images/favicon.png">
-    <script src="data.js"></script>
     <link rel="stylesheet" type="text/css" href="miEstilo.css">
 </head>
 <body onload="actualizarCantidadHeroes()">
@@ -24,8 +24,6 @@
                 <div class="card-header">
                     <h4>{{ hero.heroName }}</h4>
                     <img :src="hero.heroImg" :alt="'Imagen de ' + hero.heroName" :style="{ filter: hero.firstPlace ? '' : 'grayscale(100%)' }">
-                    <p>Gane: {{hero.firstPlace}}</p>
-                    <p>4to: {{hero.fourthPlace}}</p>
                 </div>
             </div>
         </div>
@@ -42,10 +40,10 @@
         },
         computed: {
             filteredItems() {
-                return this.heroes.filter(hero => {
-                    return hero.heroName.toLowerCase().includes(this.searchQuery.toLowerCase());
-                });
-            }
+                return this.heroes.filter(hero =>
+                    hero.heroName.toLowerCase().includes(this.searchQuery.toLowerCase())
+                );
+            },
         },
     })
 </script>
