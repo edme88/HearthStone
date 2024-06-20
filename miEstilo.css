@@ -10,34 +10,69 @@ body{
 }
 
 img{
-    margin: -20px 0px;
+    /*margin: -20px 0px;*/
     width: 100%;
-}
-
-.logo{
-    width: 20%;
-    display: block;
-    text-align: center;
-    margin: auto;
-}
-
-.card-header{
-    background: rgba(255, 255, 255, 0.73) !important;
-}
-
-.card{
-    background: rgba(255,255,255,0.1) !important;
-}
-
-h4{
-    line-height: 1.5;
-    min-height: calc(1.5em * 2);
+    filter: drop-shadow(0 0 0.75rem #544445);
+    transition: transform 0.3s;
 }
 
 #app img:hover{
     transform: perspective(1000px) rotateX(2.27deg) rotateY(5.64deg) scale3d(1.035,1.035,1.035);
 }
 
-img{
-    filter: drop-shadow(0 0 0.75rem #544445);
+.logo{
+    text-align: center;
+    margin: auto;
+}
+
+.card-header{
+    background: rgba(255, 255, 255, 0.73);
+}
+
+.parent{
+    display: grid;
+    gap: 10px;
+    justify-content: center;
+}
+
+@media (width > 970px){
+    .logo {
+        width: 20%;
+    }
+    .parent {
+        grid-template-columns: repeat(7, 1fr);
+    }
+
+    .card{
+        margin: 10px;
+        padding: 10px;
+    }
+}
+
+@media (width <= 970px){
+    .logo {
+        width: 80%;
+    }
+    .parent {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+.card{
+    background: rgba(255,255,255,0.1);
+}
+
+h4{
+    line-height: 1.5;
+    font-size: 1.5em;
+}
+
+input{
+    border-radius: 2em;
+    line-height: 1.5em;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+input:focus{
+    border: 0.02em solid #411a1a;
 }

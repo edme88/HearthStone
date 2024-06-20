@@ -4,28 +4,23 @@
     <script src="data.js"></script>
     <meta charset="UTF-8">
     <title>HearthStone</title>
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/css/bootstrap.min.css"
-          integrity="sha384-Smlep5jCw/wG7hdkwQ/Z5nLIefveQRIY9nfy6xoR1uRYBtpZgI6339F5dgvm/e9B" crossorigin="anonymous">
-    <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"
-          integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
     <script src="https://cdn.jsdelivr.net/npm/vue@2.7.14/dist/vue.js"></script>
     <link rel="icon" type="image/x-icon" href="images/favicon.png">
     <link rel="stylesheet" type="text/css" href="miEstilo.css">
+    <meta name="viewport" content="width=device-width">
 </head>
 <body onload="actualizarCantidadHeroes()">
 <img src="images/logo_header.webp" class="logo">
-<input type="text" v-model="searchQuery" placeholder="Buscar">
+<p>
+    <input type="text" v-model="searchQuery" placeholder="Buscar...">
+</p>
 <p>Cantidad de Heroes: <span id="cantidad-heroes"></span></p>
 <p>Primeros Puestos: <span id="cantidad-1st"></span> </p>
-<div id="app" class="container-fluid">
-    <div class="row">
-        <div v-for="hero in filteredItems" class="col-sm-6 col-md-2 d-flex">
-            <div class="card flex-fill mb-3">
-                <div class="card-header">
-                    <h4>{{ hero.heroName }}</h4>
-                    <img :src="hero.heroImg" :alt="'Imagen de ' + hero.heroName" :style="{ filter: hero.firstPlace ? '' : 'grayscale(100%)' }">
-                </div>
-            </div>
+<div id="app">
+    <div class="parent">
+        <div class="card" v-for="hero in filteredItems">
+            <h4>{{ hero.heroName }}</h4>
+            <img :src="hero.heroImg" :alt="'Imagen de ' + hero.heroName" :style="{ filter: hero.firstPlace ? '' : 'grayscale(100%)' }">
         </div>
     </div>
 </div>
