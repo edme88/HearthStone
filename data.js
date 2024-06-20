@@ -103,7 +103,7 @@ var datos = [
     "fourthPlace": false
   },{
     "heroName": "Cho",
-    "heroImg": "images/hero_15_Chenvaala.png",
+    "heroImg": "images/hero_96_cho.png",
     "played": true,
     "firstPlace": true,
     "fourthPlace": true
@@ -163,7 +163,7 @@ var datos = [
     "fourthPlace": true
   },{
     "heroName": "El Incógnito",
-    "heroImg": "images/hero_23_El_Gran_Akazamzarak.png",
+    "heroImg": "images/hero_97_el_incognito.png",
     "played": true,
     "firstPlace": true,
     "fourthPlace": true
@@ -211,7 +211,7 @@ var datos = [
     "fourthPlace": true
   },{
     "heroName": "Gall",
-    "heroImg": "images/hero_30_Galakrond.png",
+    "heroImg": "images/hero_99_gall.png",
     "played": true,
     "firstPlace": true,
     "fourthPlace": true
@@ -319,7 +319,7 @@ var datos = [
     "fourthPlace": true
   },{
     "heroName": "Mucus Muquitinoso",
-    "heroImg": "images/hero_45_Molino_Tormenta_de_Mana.png",
+    "heroImg": "images/hero_98_mucus_mucutinoso.png",
     "played": false,
     "firstPlace": false,
     "fourthPlace": false
@@ -349,7 +349,7 @@ var datos = [
     "fourthPlace": true
   },{
     "heroName": "Ojos de Serpiente",
-    "heroImg": "images/hero_50_Omu__celadora_del_bosque.png",
+    "heroImg": "images/hero_100_ojos_de_serpiente.png",
     "played": false,
     "firstPlace": false,
     "fourthPlace": false
@@ -481,7 +481,7 @@ var datos = [
     "fourthPlace": false
   },{
     "heroName": "Señora Goya",
-    "heroImg": "images/hero_70_Señor_supremo_Colmillosauro.png",
+    "heroImg": "images/hero_101_seniora_goya.png",
     "played": false,
     "firstPlace": false,
     "fourthPlace": false
@@ -523,7 +523,7 @@ var datos = [
     "fourthPlace": false
   },{
     "heroName": "Tae'thelan",
-    "heroImg": "images/hero_76_Sylvanas_Brisaveloz.png",
+    "heroImg": "images/hero_102_taethelan.png",
     "played": false,
     "firstPlace": false,
     "fourthPlace": false
