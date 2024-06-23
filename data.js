@@ -326,9 +326,9 @@ var datos = [
   },{
     "heroName": "Mutanus el Devorador",
     "heroImg": "images/hero_46_Mutanus_el_Devorador.png",
-    "played": false,
-    "firstPlace": false,
-    "fourthPlace": false
+    "played": true,
+    "firstPlace": true,
+    "fourthPlace": true
   },{
     "heroName": "Múrloc Holmes",
     "heroImg": "images/hero_47_Murloc_Holmes.png",
