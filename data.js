@@ -518,9 +518,9 @@ var datos = [
   },{
     "heroName": "Sylvanas Brisaveloz",
     "heroImg": "images/hero_76_Sylvanas_Brisaveloz.png",
-    "played": false,
-    "firstPlace": false,
-    "fourthPlace": false
+    "played": true,
+    "firstPlace": true,
+    "fourthPlace": true
   },{
     "heroName": "Tae'thelan",
     "heroImg": "images/hero_102_taethelan.png",
