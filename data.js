@@ -1,4 +1,4 @@
-var datos = [
+const datos = [
   {
     "heroName": "A. F. Ka",
     "heroImg": "images/hero_0_A_F_Ka.png",
@@ -48,7 +48,7 @@ var datos = [
     "firstPlace": true,
     "fourthPlace": true
   },{
-    "heroName": "Barón del atraco Togafloja",
+    "heroName": "Barón Togafloja",
     "heroImg": "images/hero_8_Baron_del_atraco_Togafloja.png",
     "played": true,
     "firstPlace": true,
@@ -606,7 +606,7 @@ var datos = [
     "firstPlace": true,
     "fourthPlace": true
   },{
-    "heroName": "Yogg-Saron, Fin de la Esperanza",
+    "heroName": "Yogg-Saron",
     "heroImg": "images/hero_88_Yogg-Saron__Fin_de_la_Esperanza.png",
     "played": true,
     "firstPlace": true,

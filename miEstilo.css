@@ -10,10 +10,10 @@ body{
 }
 
 img{
-    /*margin: -20px 0px;*/
     width: 100%;
     filter: drop-shadow(0 0 0.75rem #544445);
     transition: transform 0.3s;
+    margin-top: -2em;
 }
 
 #app img:hover{
@@ -63,8 +63,12 @@ img{
 }
 
 h4{
-    line-height: 1.5;
+    line-height: 1.5em;
     font-size: 1.5em;
+    height: 3em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 input{
