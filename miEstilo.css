@@ -75,6 +75,9 @@ input{
     border-radius: 2em;
     line-height: 1.5em;
     transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    height: 2em;
+    width: 18em;
+    text-align: center;
 }
 
 input:focus{
