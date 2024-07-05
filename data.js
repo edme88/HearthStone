@@ -128,9 +128,9 @@ const datos = [
   },{
     "heroName": "Domadinos Brann",
     "heroImg": "images/hero_18_Domadinos_Brann.png",
-    "played": false,
-    "firstPlace": false,
-    "fourthPlace": false
+    "played": true,
+    "firstPlace": true,
+    "fourthPlace": true
   },{
     "heroName": "ETC Representante",
     "heroImg": "images/hero_93_ETC_representante.png",
