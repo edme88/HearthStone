@@ -188,9 +188,9 @@ const datos = [
   },{
     "heroName": "Espantagón",
     "heroImg": "images/hero_27_Espantagon.png",
-    "played": false,
-    "firstPlace": false,
-    "fourthPlace": false
+    "played": true,
+    "firstPlace": true,
+    "fourthPlace": true
   },{
     "heroName": "Exánime Baz'hial",
     "heroImg": "images/hero_28_Exanime_Baz_hial.png",
