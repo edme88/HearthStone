@@ -20,9 +20,9 @@ const datos = [
   },{
     "heroName": "Alavendaval",
     "heroImg": "images/hero_3_Alavendaval.png",
-    "played": false,
-    "firstPlace": false,
-    "fourthPlace": false
+    "played": true,
+    "firstPlace": true,
+    "fourthPlace": true
   },{
     "heroName": "Alexstrasza",
     "heroImg": "images/hero_4_Alexstrasza.png",
