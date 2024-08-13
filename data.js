@@ -524,9 +524,9 @@ const datos = [
   },{
     "heroName": "Tae'thelan",
     "heroImg": "images/hero_102_taethelan.png",
-    "played": false,
-    "firstPlace": false,
-    "fourthPlace": false
+    "played": true,
+    "firstPlace": true,
+    "fourthPlace": true
   },{
     "heroName": "Tamsin Roame",
     "heroImg": "images/hero_77_Tamsin_Roame.png",
