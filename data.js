@@ -98,9 +98,9 @@ const datos = [
   },{
     "heroName": "Chenvaala",
     "heroImg": "images/hero_15_Chenvaala.png",
-    "played": false,
-    "firstPlace": false,
-    "fourthPlace": false
+    "played": true,
+    "firstPlace": true,
+    "fourthPlace": true
   },{
     "heroName": "Cho",
     "heroImg": "images/hero_96_cho.png",
