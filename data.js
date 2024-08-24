@@ -380,9 +380,9 @@ const datos = [
   },{
     "heroName": "Piramido",
     "heroImg": "images/hero_54_Piramido.png",
-    "played": false,
-    "firstPlace": false,
-    "fourthPlace": false
+    "played": true,
+    "firstPlace": true,
+    "fourthPlace": true
   },{
     "heroName": "Portavoz de la muerte Espina Negra",
     "heroImg": "images/hero_55_Portavoz_de_la_muerte_Espina_Negra.png",
