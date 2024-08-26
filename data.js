@@ -146,9 +146,9 @@ const datos = [
   },{
     "heroName": "El Carcelero",
     "heroImg": "images/hero_21_El_Carcelero.png",
-    "played": false,
-    "firstPlace": false,
-    "fourthPlace": false
+    "played": true,
+    "firstPlace": true,
+    "fourthPlace": true
   },{
     "heroName": "El Curator",
     "heroImg": "images/hero_22_El_Curator.png",
