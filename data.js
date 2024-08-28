@@ -308,9 +308,9 @@ const datos = [
   },{
     "heroName": "Marin el Gerente",
     "heroImg": "images/hero_103_marin_el_gerente.png",
-    "played": false,
-    "firstPlace": false,
-    "fourthPlace": false
+    "played": true,
+    "firstPlace": true,
+    "fourthPlace": true
   },{
     "heroName": "Médica Hollidae",
     "heroImg": "images/hero_45_Medica_Hollidae.png",
