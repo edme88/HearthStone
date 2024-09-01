@@ -488,9 +488,9 @@ const datos = [
   },{
     "heroName": "Señora Goya",
     "heroImg": "images/hero_101_seniora_goya.png",
-    "played": false,
-    "firstPlace": false,
-    "fourthPlace": false
+    "played": true,
+    "firstPlace": true,
+    "fourthPlace": true
   },{
     "heroName": "Silas Luna Negra",
     "heroImg": "images/hero_71_Silas_Luna_Negra.png",
