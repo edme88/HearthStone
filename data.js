@@ -248,9 +248,9 @@ const datos = [
   },{
     "heroName": "Jandice Barov",
     "heroImg": "images/hero_35_Jandice_Barov.png",
-    "played": false,
-    "firstPlace": false,
-    "fourthPlace": false
+    "played": true,
+    "firstPlace": true,
+    "fourthPlace": true
   },{
     "heroName": "Kael'thas Caminante del Sol",
     "heroImg": "images/hero_36_Kael_thas_Caminante_del_Sol.png",
