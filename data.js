@@ -356,9 +356,9 @@ const datos = [
   },{
     "heroName": "Ojos de Serpiente",
     "heroImg": "images/hero_100_ojos_de_serpiente.png",
-    "played": false,
-    "firstPlace": false,
-    "fourthPlace": false
+    "played": true,
+    "firstPlace": true,
+    "fourthPlace": true
   },{
     "heroName": "Omu, celadora del bosque",
     "heroImg": "images/hero_50_Omu__celadora_del_bosque.png",
