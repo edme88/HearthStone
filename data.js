@@ -458,9 +458,9 @@ const datos = [
   },{
     "heroName": "Rey de las ratas",
     "heroImg": "images/hero_66_Rey_de_las_ratas.png",
-    "played": false,
-    "firstPlace": false,
-    "fourthPlace": false
+    "played": true,
+    "firstPlace": true,
+    "fourthPlace": true
   },{
     "heroName": "Robomejorador",
     "heroImg": "images/hero_67_Robomejorador.png",
