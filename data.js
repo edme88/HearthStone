@@ -392,9 +392,9 @@ const datos = [
   },{
     "heroName": "Portavoz de la muerte Espina Negra",
     "heroImg": "images/hero_55_Portavoz_de_la_muerte_Espina_Negra.png",
-    "played": false,
-    "firstPlace": false,
-    "fourthPlace": false
+    "played": true,
+    "firstPlace": true,
+    "fourthPlace": true
   },{
     "heroName": "Profesor Putricidio",
     "heroImg": "images/hero_56_Profesor_Putricidio.png",
