@@ -482,9 +482,9 @@ const datos = [
   },{
     "heroName": "Señor supremo Colmillosauro",
     "heroImg": "images/hero_70_Señor_supremo_Colmillosauro.png",
-    "played": false,
-    "firstPlace": false,
-    "fourthPlace": false
+    "played": true,
+    "firstPlace": true,
+    "fourthPlace": true
   },{
     "heroName": "Señora Goya",
     "heroImg": "images/hero_101_seniora_goya.png",
