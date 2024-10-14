@@ -518,9 +518,9 @@ const datos = [
   },{
     "heroName": "Sneed",
     "heroImg": "images/hero_75_Sneed.png",
-    "played": false,
-    "firstPlace": false,
-    "fourthPlace": false
+    "played": true,
+    "firstPlace": true,
+    "fourthPlace": true
   },{
     "heroName": "Sylvanas Brisaveloz",
     "heroImg": "images/hero_76_Sylvanas_Brisaveloz.png",
