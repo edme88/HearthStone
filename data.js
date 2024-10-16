@@ -410,9 +410,9 @@ const datos = [
   },{
     "heroName": "Ragnaros, Señor del Fuego",
     "heroImg": "images/hero_58_Ragnaros__Señor_del_Fuego.png",
-    "played": false,
-    "firstPlace": false,
-    "fourthPlace": false
+    "played": true,
+    "firstPlace": true,
+    "fourthPlace": true
   },{
     "heroName": "Rakanishu",
     "heroImg": "images/hero_59_Rakanishu.png",
