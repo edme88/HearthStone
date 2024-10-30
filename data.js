@@ -374,9 +374,9 @@ const datos = [
   },{
     "heroName": "Ozumat",
     "heroImg": "images/hero_52_Ozumat.png",
-    "played": false,
-    "firstPlace": false,
-    "fourthPlace": false
+    "played": true,
+    "firstPlace": true,
+    "fourthPlace": true
   },{
     "heroName": "Parches el Pirata",
     "heroImg": "images/hero_53_Parches_el_Pirata.png",
