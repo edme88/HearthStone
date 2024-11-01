@@ -302,9 +302,9 @@ const datos = [
   },{
     "heroName": "Malífica Tormenta de Maná",
     "heroImg": "images/hero_44_Malifica_Tormenta_de_Mana.png",
-    "played": false,
-    "firstPlace": false,
-    "fourthPlace": false
+    "played": true,
+    "firstPlace": true,
+    "fourthPlace": true
   },{
     "heroName": "Marin el Gerente",
     "heroImg": "images/hero_103_marin_el_gerente.png",
