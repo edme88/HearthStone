@@ -290,9 +290,9 @@ const datos = [
   },{
     "heroName": "Maiev Cantosombrío",
     "heroImg": "images/hero_42_Maiev_Cantosombrio.png",
-    "played": false,
-    "firstPlace": false,
-    "fourthPlace": false
+    "played": true,
+    "firstPlace": true,
+    "fourthPlace": true
   },{
     "heroName": "Malygos",
     "heroImg": "images/hero_43_Malygos.png",
