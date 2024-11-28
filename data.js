@@ -177,7 +177,7 @@ const datos = [
     "heroName": "Elise Buscaestelar",
     "heroImg": "images/hero_25_Elise_Buscaestelar.png",
     "played": true,
-    "firstPlace": false,
+    "firstPlace": true,
     "fourthPlace": true
   },{
     "heroName": "Embajador Faelin",
