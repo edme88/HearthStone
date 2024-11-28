@@ -404,9 +404,9 @@ const datos = [
   },{
     "heroName": "Príncipe mercante Gallywix",
     "heroImg": "images/hero_57_Principe_mercante_Gallywix.png",
-    "played": false,
-    "firstPlace": false,
-    "fourthPlace": false
+    "played": true,
+    "firstPlace": true,
+    "fourthPlace": true
   },{
     "heroName": "Ragnaros, Señor del Fuego",
     "heroImg": "images/hero_58_Ragnaros__Señor_del_Fuego.png",
