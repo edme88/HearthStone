@@ -573,8 +573,8 @@ const datos = [
     "heroName": "Thorim, Señor de la Tormenta",
     "heroImg": "images/hero_95_thorim_senor_de_la_tormenta.png",
     "played": true,
-    "firstPlace": false,
-    "fourthPlace": false
+    "firstPlace": true,
+    "fourthPlace": true
   },{
     "heroName": "Vanndar Pico Tormenta",
     "heroImg": "images/hero_83_Vanndar_Pico_Tormenta.png",
