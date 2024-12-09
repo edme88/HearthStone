@@ -108,6 +108,12 @@ const datos = [
     "firstPlace": true,
     "fourthPlace": true
   },{
+    "heroName": "Clarividente Nobundo",
+    "heroImg": "images/hero_104_clarividente_nobundo.png",
+    "played": true,
+    "firstPlace": true,
+    "fourthPlace": true
+  },{
     "heroName": "Cocinitas el cocinero",
     "heroImg": "images/hero_16_Cocinitas_el_cocinero.png",
     "played": true,
@@ -198,6 +204,12 @@ const datos = [
     "firstPlace": true,
     "fourthPlace": true
   },{
+    "heroName": "Exarca Othaar",
+    "heroImg": "images/hero_105_exarca_othaar.png",
+    "played": false,
+    "firstPlace": false,
+    "fourthPlace": false
+  },{
     "heroName": "Fungimántico Flurgl",
     "heroImg": "images/hero_29_Fungimantico_Flurgl.png",
     "played": true,
@@ -284,6 +296,12 @@ const datos = [
   },{
     "heroName": "Maestro Nguyen",
     "heroImg": "images/hero_41_Maestro_Nguyen.png",
+    "played": false,
+    "firstPlace": false,
+    "fourthPlace": false
+  },{
+    "heroName": "Maestro Clonador Zerek",
+    "heroImg": "images/hero_106_maestro_clonador_zerek.png",
     "played": false,
     "firstPlace": false,
     "fourthPlace": false
