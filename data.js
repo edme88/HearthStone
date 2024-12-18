@@ -482,9 +482,9 @@ const datos = [
   },{
     "heroName": "Robomejorador",
     "heroImg": "images/hero_67_Robomejorador.png",
-    "played": false,
-    "firstPlace": false,
-    "fourthPlace": false
+    "played": true,
+    "firstPlace": true,
+    "fourthPlace": true
   },{
     "heroName": "Rokara",
     "heroImg": "images/hero_68_Rokara.png",
