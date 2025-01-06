@@ -644,9 +644,9 @@ const datos = [
   },{
     "heroName": "Zephrys el Grande",
     "heroImg": "images/hero_90_Zephrys_el_Grande.png",
-    "played": false,
-    "firstPlace": false,
-    "fourthPlace": false
+    "played": true,
+    "firstPlace": true,
+    "fourthPlace": true
   }
 ];
 
