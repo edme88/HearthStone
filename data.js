@@ -38,9 +38,9 @@ const datos = [
   },{
     "heroName": "Archivillano Rafaam",
     "heroImg": "images/hero_6_Archivillano_Rafaam.png",
-    "played": false,
-    "firstPlace": false,
-    "fourthPlace": false
+    "played": true,
+    "firstPlace": true,
+    "fourthPlace": true
   },{
     "heroName": "Baldomero",
     "heroImg": "images/hero_7_Baldomero.png",
