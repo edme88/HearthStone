@@ -416,9 +416,9 @@ const datos = [
   },{
     "heroName": "Profesor Putricidio",
     "heroImg": "images/hero_56_Profesor_Putricidio.png",
-    "played": false,
-    "firstPlace": false,
-    "fourthPlace": false
+    "played": true,
+    "firstPlace": true,
+    "fourthPlace": true
   },{
     "heroName": "Príncipe mercante Gallywix",
     "heroImg": "images/hero_57_Principe_mercante_Gallywix.png",
