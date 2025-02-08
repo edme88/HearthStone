@@ -248,9 +248,9 @@ const datos = [
   },{
     "heroName": "Inge el Himno Férreo",
     "heroImg": "images/hero_94_inge_el_himno_ferreo.png",
-    "played": false,
-    "firstPlace": false,
-    "fourthPlace": false
+    "played": true,
+    "firstPlace": true,
+    "fourthPlace": true
   },{
     "heroName": "Ini Tormentaespiral",
     "heroImg": "images/hero_34_Ini_Tormentaespiral.png",
