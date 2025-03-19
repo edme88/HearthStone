@@ -188,10 +188,10 @@ const datos = [
   },{
     "heroName": "Embajador Faelin",
     "heroImg": "images/hero_26_Embajador_Faelin.png",
-    "played": false,
-    "firstPlace": false,
-    "fourthPlace": false
-  },{
+    "played": true,
+    "firstPlace": true,
+    "fourthPlace": true
+  },{,
     "heroName": "Espantagón",
     "heroImg": "images/hero_27_Espantagon.png",
     "played": true,
