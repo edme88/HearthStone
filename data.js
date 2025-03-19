@@ -191,7 +191,7 @@ const datos = [
     "played": true,
     "firstPlace": true,
     "fourthPlace": true
-  },{,
+  },{
     "heroName": "Espantagón",
     "heroImg": "images/hero_27_Espantagon.png",
     "played": true,
