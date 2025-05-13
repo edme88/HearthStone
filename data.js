@@ -518,9 +518,9 @@ const datos = [
   },{
     "heroName": "Sindragosa",
     "heroImg": "images/hero_72_Sindragosa.png",
-    "played": false,
-    "firstPlace": false,
-    "fourthPlace": false
+    "played": true,
+    "firstPlace": true,
+    "fourthPlace": true
   },{
     "heroName": "Sir Finley Mrrgglton",
     "heroImg": "images/hero_73_Sir_Finley_Mrrgglton.png",
