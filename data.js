@@ -42,6 +42,12 @@ const datos = [
     "firstPlace": true,
     "fourthPlace": true
   },{
+    "heroName": "Artanis",
+    "heroImg": "images/hero_107_artanis.png",
+    "played": false,
+    "firstPlace": false,
+    "fourthPlace": false
+  },{
     "heroName": "Baldomero",
     "heroImg": "images/hero_7_Baldomero.png",
     "played": true,
@@ -53,6 +59,12 @@ const datos = [
     "played": true,
     "firstPlace": true,
     "fourthPlace": true
+  },{
+    "heroName": "Botones",
+    "heroImg": "images/hero_108_botones.png",
+    "played": false,
+    "firstPlace": false,
+    "fourthPlace": false
   },{
     "heroName": "Bru'kan",
     "heroImg": "images/hero_9_Bru_kan.png",
@@ -95,6 +107,12 @@ const datos = [
     "played": true,
     "firstPlace": true,
     "fourthPlace": true
+  },{
+    "heroName": "Cenarius Señor del Bosque",
+    "heroImg": "images/hero_109_cenarius.png",
+    "played": false,
+    "firstPlace": false,
+    "fourthPlace": false
   },{
     "heroName": "Chenvaala",
     "heroImg": "images/hero_15_Chenvaala.png",
@@ -264,11 +282,23 @@ const datos = [
     "firstPlace": true,
     "fourthPlace": true
   },{
+    "heroName": "Jim Raynor",
+    "heroImg": "images/hero_110_jim_raynor.png",
+    "played": false,
+    "firstPlace": false,
+    "fourthPlace": false
+  },{
     "heroName": "Kael'thas Caminante del Sol",
     "heroImg": "images/hero_36_Kael_thas_Caminante_del_Sol.png",
     "played": true,
     "firstPlace": true,
     "fourthPlace": true
+  },{
+    "heroName": "Kerrigan Reina de Espadas",
+    "heroImg": "images/hero_111_kerrigan.png",
+    "played": false,
+    "firstPlace": false,
+    "fourthPlace": false
   },{
     "heroName": "Kurtrus Cenizacaída",
     "heroImg": "images/hero_37_Kurtrus_Cenizacaida.png",
