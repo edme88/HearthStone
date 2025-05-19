@@ -512,9 +512,9 @@ const datos = [
   },{
     "heroName": "Silas Luna Negra",
     "heroImg": "images/hero_71_Silas_Luna_Negra.png",
-    "played": false,
-    "firstPlace": false,
-    "fourthPlace": false
+    "played": true,
+    "firstPlace": true,
+    "fourthPlace": true
   },{
     "heroName": "Sindragosa",
     "heroImg": "images/hero_72_Sindragosa.png",
