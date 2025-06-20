@@ -326,9 +326,9 @@ const datos = [
   },{
     "heroName": "Maestro Nguyen",
     "heroImg": "images/hero_41_Maestro_Nguyen.png",
-    "played": false,
-    "firstPlace": false,
-    "fourthPlace": false
+    "played": true,
+    "firstPlace": true,
+    "fourthPlace": true
   },{
     "heroName": "Maestro Clonador Zerek",
     "heroImg": "images/hero_106_maestro_clonador_zerek.png",
