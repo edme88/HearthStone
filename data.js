@@ -138,6 +138,12 @@ const datos = [
     "firstPlace": true,
     "fourthPlace": true
   },{
+    "heroName": "Cromi",
+    "heroImg": "images/hero_112_cromi.png",
+    "played": false,
+    "firstPlace": false,
+    "fourthPlace": false
+  },{
     "heroName": "Daryl el Bailarín",
     "heroImg": "images/hero_17_Daryl_el_Bailarin.png",
     "played": true,
@@ -312,6 +318,12 @@ const datos = [
     "firstPlace": true,
     "fourthPlace": true
   },{
+    "heroName": "Loh Leyenda Viviente",
+    "heroImg": "images/hero_113_loh.png",
+    "played": false,
+    "firstPlace": false,
+    "fourthPlace": false
+  },{
     "heroName": "Lord Barov",
     "heroImg": "images/hero_39_Lord_Barov.png",
     "played": false,
@@ -366,6 +378,12 @@ const datos = [
     "firstPlace": true,
     "fourthPlace": true
   },{
+    "heroName": "Mocri",
+    "heroImg": "images/hero_114_mocri.png",
+    "played": false,
+    "firstPlace": false,
+    "fourthPlace": false
+  },{
     "heroName": "Molino Tormenta de Maná",
     "heroImg": "images/hero_45_Molino_Tormenta_de_Mana.png",
     "played": true,
@@ -377,6 +395,12 @@ const datos = [
     "played": true,
     "firstPlace": true,
     "fourthPlace": true
+  },{
+    "heroName": "Murozond",
+    "heroImg": "images/hero_115_murozond.png",
+    "played": false,
+    "firstPlace": false,
+    "fourthPlace": false
   },{
     "heroName": "Mutanus el Devorador",
     "heroImg": "images/hero_46_Mutanus_el_Devorador.png",
