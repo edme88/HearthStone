@@ -165,8 +165,8 @@ const datos = [
     "heroName": "ETC Representante",
     "heroImg": "images/hero_93_ETC_representante.png",
     "played": true,
-    "firstPlace": false,
-    "fourthPlace": false
+    "firstPlace": true,
+    "fourthPlace": true
   },{
     "heroName": "Edwin VanCleef",
     "heroImg": "images/hero_20_Edwin_VanCleef.png",
