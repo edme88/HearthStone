@@ -320,9 +320,9 @@ const datos = [
   },{
     "heroName": "Loh Leyenda Viviente",
     "heroImg": "images/hero_113_loh.png",
-    "played": false,
-    "firstPlace": false,
-    "fourthPlace": false
+    "played": true,
+    "firstPlace": true,
+    "fourthPlace": true
   },{
     "heroName": "Lord Barov",
     "heroImg": "images/hero_39_Lord_Barov.png",
