@@ -380,9 +380,9 @@ const datos = [
   },{
     "heroName": "Mocri",
     "heroImg": "images/hero_114_mocri.png",
-    "played": false,
-    "firstPlace": false,
-    "fourthPlace": false
+    "played": true,
+    "firstPlace": true,
+    "fourthPlace": true
   },{
     "heroName": "Molino Tormenta de Maná",
     "heroImg": "images/hero_45_Molino_Tormenta_de_Mana.png",
