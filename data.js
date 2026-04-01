@@ -110,9 +110,9 @@ const datos = [
   },{
     "heroName": "Cenarius Señor del Bosque",
     "heroImg": "images/hero_109_cenarius.png",
-    "played": false,
-    "firstPlace": false,
-    "fourthPlace": false
+    "played": true,
+    "firstPlace": true,
+    "fourthPlace": true
   },{
     "heroName": "Chenvaala",
     "heroImg": "images/hero_15_Chenvaala.png",
