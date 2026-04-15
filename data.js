@@ -138,11 +138,11 @@ const datos = [
     "firstPlace": true,
     "fourthPlace": true
   },{
-    "heroName": "Cromi",
+    "heroName": "Tuercetiempos Cromi",
     "heroImg": "images/hero_112_cromi.png",
-    "played": false,
-    "firstPlace": false,
-    "fourthPlace": false
+    "played": true,
+    "firstPlace": true,
+    "fourthPlace": true
   },{
     "heroName": "Daryl el Bailarín",
     "heroImg": "images/hero_17_Daryl_el_Bailarin.png",
