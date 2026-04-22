@@ -162,6 +162,12 @@ const datos = [
     "firstPlace": true,
     "fourthPlace": true
   },{
+    "heroName": "Don Relojero",
+    "heroImg": "images/hero_116_don_relojero.png",
+    "played": false,
+    "firstPlace": false,
+    "fourthPlace": false
+  },{
     "heroName": "ETC Representante",
     "heroImg": "images/hero_93_ETC_representante.png",
     "played": true,
@@ -248,6 +254,12 @@ const datos = [
   },{
     "heroName": "Gall",
     "heroImg": "images/hero_99_gall.png",
+    "played": true,
+    "firstPlace": true,
+    "fourthPlace": true
+  },{
+    "heroName": "Genn, Rey Huarguen",
+    "heroImg": "images/hero_117_rey_huarguen.png",
     "played": true,
     "firstPlace": true,
     "fourthPlace": true
