@@ -110,9 +110,9 @@ const datos = [
   },{
     "heroName": "Cenarius Señor del Bosque",
     "heroImg": "images/hero_109_cenarius.png",
-    "played": false,
-    "firstPlace": false,
-    "fourthPlace": false
+    "played": true,
+    "firstPlace": true,
+    "fourthPlace": true
   },{
     "heroName": "Chenvaala",
     "heroImg": "images/hero_15_Chenvaala.png",
@@ -138,11 +138,11 @@ const datos = [
     "firstPlace": true,
     "fourthPlace": true
   },{
-    "heroName": "Cromi",
+    "heroName": "Tuercetiempos Cromi",
     "heroImg": "images/hero_112_cromi.png",
-    "played": false,
-    "firstPlace": false,
-    "fourthPlace": false
+    "played": true,
+    "firstPlace": true,
+    "fourthPlace": true
   },{
     "heroName": "Daryl el Bailarín",
     "heroImg": "images/hero_17_Daryl_el_Bailarin.png",
@@ -171,8 +171,8 @@ const datos = [
     "heroName": "ETC Representante",
     "heroImg": "images/hero_93_ETC_representante.png",
     "played": true,
-    "firstPlace": false,
-    "fourthPlace": false
+    "firstPlace": true,
+    "fourthPlace": true
   },{
     "heroName": "Edwin VanCleef",
     "heroImg": "images/hero_20_Edwin_VanCleef.png",
@@ -332,9 +332,9 @@ const datos = [
   },{
     "heroName": "Loh Leyenda Viviente",
     "heroImg": "images/hero_113_loh.png",
-    "played": false,
-    "firstPlace": false,
-    "fourthPlace": false
+    "played": true,
+    "firstPlace": true,
+    "fourthPlace": true
   },{
     "heroName": "Lord Barov",
     "heroImg": "images/hero_39_Lord_Barov.png",
@@ -392,9 +392,9 @@ const datos = [
   },{
     "heroName": "Mocri",
     "heroImg": "images/hero_114_mocri.png",
-    "played": false,
-    "firstPlace": false,
-    "fourthPlace": false
+    "played": true,
+    "firstPlace": true,
+    "fourthPlace": true
   },{
     "heroName": "Molino Tormenta de Maná",
     "heroImg": "images/hero_45_Molino_Tormenta_de_Mana.png",
