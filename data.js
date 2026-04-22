@@ -259,7 +259,7 @@ const datos = [
     "fourthPlace": true
   },{
     "heroName": "Genn, Rey Huarguen",
-    "heroImg": "images/hero_117_rey_huarguen.png",
+    "heroImg": "images/hero_117_genn_rey_huarguen.png",
     "played": true,
     "firstPlace": true,
     "fourthPlace": true
