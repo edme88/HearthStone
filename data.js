@@ -80,9 +80,9 @@ const datos = [
   },{
     "heroName": "Capitana Colmigarfio",
     "heroImg": "images/hero_11_Capitana_Colmigarfio.png",
-    "played": false,
-    "firstPlace": false,
-    "fourthPlace": false
+    "played": true,
+    "firstPlace": true,
+    "fourthPlace": true
   },{
     "heroName": "Capitana Eudora",
     "heroImg": "images/hero_12_Capitana_Eudora.png",
@@ -259,7 +259,7 @@ const datos = [
     "fourthPlace": true
   },{
     "heroName": "Genn, Rey Huarguen",
-    "heroImg": "images/hero_117_genn_rey_huarguen.png",
+    "heroImg": "images/hero_117_genn_rey_huargen.png",
     "played": true,
     "firstPlace": true,
     "fourthPlace": true
