@@ -6,7 +6,7 @@ const datos = [
     "firstPlace": true,
     "fourthPlace": true
   },{
-  "heroName": "Al'Akir",
+  "heroName": "Al'Akir",f
   "heroImg": "images/hero_1_Al_Akir.png",
   "played": true,
   "firstPlace": true,
@@ -62,9 +62,9 @@ const datos = [
   },{
     "heroName": "Botones",
     "heroImg": "images/hero_108_botones.png",
-    "played": false,
-    "firstPlace": false,
-    "fourthPlace": false
+    "played": true,
+    "firstPlace": true,
+    "fourthPlace": true
   },{
     "heroName": "Bru'kan",
     "heroImg": "images/hero_9_Bru_kan.png",
