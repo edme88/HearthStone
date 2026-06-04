@@ -6,7 +6,7 @@ const datos = [
     "firstPlace": true,
     "fourthPlace": true
   },{
-  "heroName": "Al'Akir",f
+  "heroName": "Al'Akir",
   "heroImg": "images/hero_1_Al_Akir.png",
   "played": true,
   "firstPlace": true,
