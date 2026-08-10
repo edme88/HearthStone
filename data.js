@@ -624,6 +624,12 @@ const datos = [
     "firstPlace": true,
     "fourthPlace": true
   },{
+    "heroName": "Tras'tath Parásito del Alma",
+    "heroImg": "images/hero_119_trastath.png",
+    "played": true,
+    "firstPlace": true,
+    "fourthPlace": true
+  },{
     "heroName": "Tavish Pico Tormenta",
     "heroImg": "images/hero_78_Tavish_Pico_Tormenta.png",
     "played": false,
@@ -683,6 +689,12 @@ const datos = [
     "played": true,
     "firstPlace": true,
     "fourthPlace": true
+  },{
+    "heroName": "Xavius, Señor de la Pesadilla",
+    "heroImg": "images/hero_118_xavius.png",
+    "played": true,
+    "firstPlace": false,
+    "fourthPlace": false
   },{
     "heroName": "Xyrella",
     "heroImg": "images/hero_86_Xyrella.png",
